@@ -12,7 +12,7 @@ def task(seq):
     {10: 1, 20: 2, 21: 2, 30: 1}
     """
     # BEGIN
-    res = {};
+    res = {}
     seq = list(seq)
     for val in seq:
         if not val in res:
