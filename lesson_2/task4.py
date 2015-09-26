@@ -15,7 +15,7 @@ def task(seq):
     res = {}
     seq = list(seq)
     for val in seq:
-        if not val in res:
+        if val not in res:
             res[val] = seq.count(val)
     return res
     # END
