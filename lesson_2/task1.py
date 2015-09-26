@@ -1,4 +1,7 @@
 __author__ = 'strelkov'
+# ######
+# task 1
+# ######
 
 
 def task(seq1, seq2):
