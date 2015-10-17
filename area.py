@@ -1,5 +1,3 @@
-__author__ = 'strelkov'
-
 import math
 # BEGIN (write your solution here)
 
